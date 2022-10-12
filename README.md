@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elvin-rivera23
 - 👀 I’m interested in DevOps, cloud solutions and cloud infrastructure
-- 🌱 I’m currently studying for AWS Solutions Architect Pro and creating a stronger foundation to build a DevOps career on
+- 🌱 I’m currently a DevOps Architect for a Tech Conulting company.
 - 🤝 I’m looking to collaborate on cloud orchestration technologies
 - 📫 How to reach me: elvinkrivera@gmail.com
 
