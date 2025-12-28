@@ -23,9 +23,12 @@ Now I'm expanding into **AI and machine learning**, combining that foundation wi
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🛠️ Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -40,18 +43,18 @@ Now I'm expanding into **AI and machine learning**, combining that foundation wi
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-</div>
+</td>
+<td width="50%" align="center" valign="top">
 
----
-
-## 📬 Let's Connect!
-
-<div align="center">
+### 📬 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-elvinkrivera%40gmail.com-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvinkrivera@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvin-rivera-725066159/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elvin-rivera23)
 
+</td>
+</tr>
+</table>
 </div>
 
 ---
