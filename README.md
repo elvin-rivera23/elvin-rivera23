@@ -12,14 +12,17 @@
 
 ## 🚀 About Me
 
-I build and automate **cloud platforms** using tools like Terraform, Kubernetes, and CI/CD to make systems reliable, scalable, and secure.
+I build cloud, platform, and automation systems that help teams ship reliable infrastructure and production-ready AI applications.
 
-Now I'm expanding into **AI and machine learning**, combining that foundation with my passion for **trading and investing**. My focus is on creating:
+My work spans infrastructure as code, Kubernetes, CI/CD, observability, cloud security, MLOps, LLM evaluation, and governance, with a growing focus on financial and digital asset systems.
 
-- 📊 **Day Trading Automation** → Systems that can take trades or signal when to act
-- 💰 **Investment AI** → Models that surface the best opportunities to grow wealth
+I'm especially interested in applying that foundation to finance, trading, and settlement infrastructure, including:
 
-> 🎯 *My goal is to bridge **traditional cloud engineering** with **applied AI for finance**, building platforms that don't just run reliably but also **make smarter decisions**.*
+- 📊 **Trading Automation** → Signal generation, workflow automation, and decision-support systems
+- 🤖 **AI Infrastructure** → Evaluation, observability, governance, and deployment patterns for production AI systems
+- 🌐 **XRPL Settlement Systems** → Route reliability, trust-line readiness, policy controls, approval workflows, and audit evidence for XRP / issued-asset settlement
+
+> 🎯 *I'm focused on building the infrastructure layer where cloud platforms, AI systems, and financial workflows can operate with reliability, visibility, and control.*
 
 ---
 
