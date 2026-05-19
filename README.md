@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:FBBF24,100:FCD34D&height=180&section=header&text=Hey,%20I'm%20Elvin%20🤙🌴&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Platform+Engineer+%7C+Cloud+Automation;AI%2FMLOps+%7C+Applied+AI+in+Trading" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Platform+Engineer+%7C+AI+Infrastructure;MLOps+%7C+Trading+Automation+%7C+Crypto+Infrastructure" alt="Typing SVG" /></a>
 
 </div>
 
@@ -16,11 +16,11 @@ I build cloud, platform, and automation systems that help teams ship reliable in
 
 My work spans infrastructure as code, Kubernetes, CI/CD, observability, cloud security, MLOps, LLM evaluation, and governance, with a growing focus on financial and digital asset systems.
 
-I'm especially interested in applying that foundation to finance, trading, and settlement infrastructure, including:
+I'm especially interested in applying that foundation to finance, trading, and crypto infrastructure, including:
 
 - 📊 **Trading Automation** → Signal generation, workflow automation, and decision-support systems
 - 🤖 **AI Infrastructure** → Evaluation, observability, governance, and deployment patterns for production AI systems
-- 🌐 **XRPL Settlement Systems** → Route reliability, trust-line readiness, policy controls, approval workflows, and audit evidence for XRP / issued-asset settlement
+- 🌐 **Crypto Infrastructure** → Payment route reliability, asset readiness, policy controls, approval workflows, and audit evidence for digital asset systems
 
 > 🎯 *I'm focused on building the infrastructure layer where cloud platforms, AI systems, and financial workflows can operate with reliability, visibility, and control.*
 
