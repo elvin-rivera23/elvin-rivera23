@@ -18,8 +18,8 @@ My work centers on cloud platforms, AI infrastructure, and automation, with a gr
 
 Current focus:
 
-- 📊 **Trading Automation** → Signals, workflow automation, and decision support
 - 🤖 **AI Infrastructure** → Evaluation, observability, governance, and production deployment patterns
+- 📊 **Trading Automation** → Signals, workflow automation, and decision support
 - 🌐 **Crypto Infrastructure** → Payment reliability, asset readiness, controls, approvals, and audit evidence
 
 > 🎯 *I'm focused on building the infrastructure layer where cloud platforms, AI systems, and financial workflows can operate with reliability, visibility, and control.*
