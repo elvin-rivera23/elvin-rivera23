@@ -14,7 +14,7 @@
 
 I build cloud, platform, and automation systems that help teams ship reliable infrastructure and production-ready AI applications.
 
-My work spans infrastructure as code, Kubernetes, CI/CD, observability, cloud security, MLOps, LLM evaluation, and governance, with a growing focus on financial and digital asset systems.
+My work centers on cloud platforms, AI infrastructure, and automation, with a growing focus on financial and digital asset systems.
 
 I'm especially interested in applying that foundation to finance, trading, and crypto infrastructure, including:
 
