@@ -16,11 +16,11 @@ I build cloud, platform, and automation systems that help teams ship reliable in
 
 My work centers on cloud platforms, AI infrastructure, and automation, with a growing focus on financial and digital asset systems.
 
-I'm especially interested in applying that foundation to finance, trading, and crypto infrastructure, including:
+Current focus:
 
-- 📊 **Trading Automation** → Signal generation, workflow automation, and decision-support systems
-- 🤖 **AI Infrastructure** → Evaluation, observability, governance, and deployment patterns for production AI systems
-- 🌐 **Crypto Infrastructure** → Payment route reliability, asset readiness, policy controls, approval workflows, and audit evidence for digital asset systems
+- 📊 **Trading Automation** → Signals, workflow automation, and decision support
+- 🤖 **AI Infrastructure** → Evaluation, observability, governance, and production deployment patterns
+- 🌐 **Crypto Infrastructure** → Payment reliability, asset readiness, controls, approvals, and audit evidence
 
 > 🎯 *I'm focused on building the infrastructure layer where cloud platforms, AI systems, and financial workflows can operate with reliability, visibility, and control.*
 
