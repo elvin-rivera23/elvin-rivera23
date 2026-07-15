@@ -58,7 +58,6 @@ Current focus:
 
 ### 📬 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-elvinkrivera%40gmail.com-F59E0B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elvinkrivera@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvin-rivera-725066159/)
 
 </td>
